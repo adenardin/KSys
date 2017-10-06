@@ -71,7 +71,7 @@ public class Inicial extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new CadastrosDeClientes().setVisible(true);
+                new CadastroDeClientes().setVisible(true);
             }
         });        
     }//GEN-LAST:event_jMenuItem1ActionPerformed
